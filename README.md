@@ -1,2 +1,3 @@
-# DS-GA-1007
-Python For Data Science
+# DS Practice
+
+some data science related work
